@@ -14,7 +14,7 @@ x = 0
 
 def info():
     
-    url = 'https://docs.google.com/forms/d/e/1FAIpQLSdKCRY4WqJgLBhsaoAu4iWPzPpHAuQrfVOoKtZTKGAxKGZCNg/formResponse'
+    url = '' #enter URL of form here - only ban appeals work for now
 
     formID = random.randint(1,4896)
     r = requests.get(f'https://earth2.kiwismp.fun/info.php?type=ban&id={formID}')
