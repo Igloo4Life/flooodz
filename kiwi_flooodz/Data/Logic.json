@@ -1,0 +1,101 @@
+{
+    "intro1":"Hello,",
+    "intro2": "Hi,",
+    "intro3": "Hey,",
+    "intro4": "Hello Staff member,",
+    "intro5": "Hi Staff member,",
+    "intro6": "Hello Kiwi Staff member,",
+    "intro7": "Hi Kiwi Staff member,",
+    "intro8": "Dear Staff Team,",
+    "intro9": "Dear Staff member,",
+    "intro10": "Dear Kiwi Staff Team,",
+    "intro11": "",
+
+
+    "banTime1": "I was recently banned on kiwi",
+    "banTime2": "Today I Realised I ",
+    "banTime3": "A few days ago I ",
+    "banTime4": "A few months ago I ",
+    "banTime5": "A while ago I ",
+    "banTime6": "A year ago I ",
+    "banTime7": "Some time ago I ",
+
+    "words1": "was",
+    "words2": "got",
+    "words3": "",
+
+    "banTime_ending1": "banned",
+    "banTime_ending2": "banned on kiwi",
+    "banTime_ending3": "banned on kiwiSMP",
+    "banTime_ending4": "",
+
+    
+    "banReasoning1": ". This was because",
+    "banReasoning2": ". I was banned for",
+    "banReasoning3": ". The reason why I was banned was because",
+    "banReasoning4": ", for",
+    "banReasoning5": ", because of",
+    "banReasoning6": ", the reason given was for",
+    "banReasoning7": ". The reason for this ban was because",
+    "banReasoning8": ".",
+
+
+    "realize0": "now",
+    "realize1": "a few days,",
+    "realize2": "a bit of time",
+    "realize3": "some time",
+    "realize4": "a few months",
+
+    "realize-4": "I realized that",
+    "realize-5": "I came to the conclusion that",
+    "realize-6": "I made the decision that",
+    "realize-7": "I began to think that",
+    "realize-8": "I started to really believe that",
+
+    "miss1": "the server",
+    "miss2": "the community",
+    "miss3": "building",
+    "miss4": "my friends",
+    "miss5": "my clan",
+    "miss6": "the events",
+    "miss7": "the pvp",
+
+
+    "appology1": "I would like to appologise for",
+    "appology2": "I am sorry for",
+    "appology3": "I'm sorry for",
+    "appology4": "Im sorry for",
+    "appology5": "I am very sorry for",
+    "appology6": "I'm really sorry for",
+
+    "appologyEnd1": "what I did.",
+    "appologyEnd2": "what I have done.",
+    "appologyEnd3": "my actions.",
+    "appologyEnd4": "doing this.",
+
+    "appologyOption1": "I Will never do this again.",
+    "appologyOption2": "I promise this will never happen again.",
+    "appologyOption3": "Please unban me I really want to play again.",
+    "appologyOption4": "I Would like to be unbanned.",
+    "appologyOption5": "Can I please be unbanned?",
+    "appologyOption6": "Can I please play on the server again?",
+    "appologyOption7": "Please I would love to log on again.",
+    "appologyOption8": "If I could please be unbanned I will never do this again.",
+    "appologyOption9": "I would be greatful if you could consider unbanning me.",
+    "appologyOption10": "I promise I will never do this again.",
+    "appologyOption11": "I ask for forgiveness and to be unbanned.",
+    "appologyOption12": "",
+    
+    "chance1": "If possible give me another chance.",
+    "chance2": "",
+
+    "conclusion1": "Thank you for reading",
+    "conclusion2": "Thank you for reading this",
+    "conclusion3": "Thanks for reading",
+    "conclusion4": "Thanks for your time",
+    "conclusion5": "Thanks",
+    "conclusion6": "Thank you",
+    "conclusion7": "Thx",
+    "conclusion8": ""
+
+}
