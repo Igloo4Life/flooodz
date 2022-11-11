@@ -7,7 +7,7 @@
 > *This discord bot aims to provide the best service to kiwi with an industrial quantity worth of ban appeals.*
 
 ### Files
-- `Main.py` - main file for bot code
-- `dataProcessor.py` - main file for scraping & filling forms
+- `Main.py` - main discord bot code
+- `dataProcessor.py` - main info stuff file or smt
 
 ![This is an image](https://github.com/Igloo4Life/flooodz/blob/main/kiwi_flooodz/Misc/Logo.png)
