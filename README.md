@@ -10,6 +10,8 @@ If for some reason you wanna use this dont forget to go to the `configuration.js
 ### Files
 - `Main.py` - main discord bot code
 - `dataProcessor.py` - main info stuff file or smt
+- `configuration.json` - holds info such as bot token and prefix
+- files in the data file are used to generate & randomize data
 
 ### Packages Used
 - gforms 1.3.0 
