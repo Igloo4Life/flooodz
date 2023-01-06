@@ -11,4 +11,14 @@ If for some reason you wanna use this dont forget to go to the `configuration.js
 - `Main.py` - main discord bot code
 - `dataProcessor.py` - main info stuff file or smt
 
+### Packages Used
+- gforms 1.3.0 
+- discord 3.1
+- beautifulsoup4 4.11.1
+- request
+- json
+- datetime
+- random
+
+
 ![This is an image](https://github.com/Igloo4Life/flooodz/blob/main/kiwi_flooodz/Misc/Logo.png)
