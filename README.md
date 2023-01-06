@@ -1,5 +1,6 @@
 # flooodz
-
+### IMPORTANT
+If for some reason you wanna use this dont forget to go to the `configuration.json` file in the `data` folder and replace the word `TOKEN` with a valid discord bot token
 
 ### Floodz is in early development. 
 
